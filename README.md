@@ -1,3 +1,5 @@
+blog post link here: https://medium.com/@olubodem/this-will-make-you-less-anxious-as-a-new-developer-81cc571d69b9
+I couldn't upload the link after adding my github to udacity
 
 The libraries used are pandas, numpy for data manipulation
 matplotlib and seaborn libraries are used for visualization
